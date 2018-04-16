@@ -1,0 +1,7 @@
+name: Ad-Trpm_R
+channels:
+  - rdonnellyr
+#  - bioconda
+dependencies:
+  - r-base
+#  - bioconductor-quantro
